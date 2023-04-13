@@ -1,5 +1,5 @@
 public class ILS extends Coin {
-    private final double value = 0.29;
+    private final double value = 0.27;
 
     @Override
     public double getValue() {
